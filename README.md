@@ -1,2 +1,2 @@
-# Phonos
-A collection of mobile wallpapers.
+# Apple macOS Wallpapers
+A collection of macOS wallpapers.
